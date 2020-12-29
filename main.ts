@@ -1,5 +1,5 @@
 basic.showIcon(IconNames.Heart)
-basic.forever(function on_forever() {
+basic.forever(function () {
     cuteBot.forward()
     basic.pause(200)
     cuteBot.motors(100, 40)
